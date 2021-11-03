@@ -11,7 +11,7 @@
 to copy the project locally :
 
 ```sh 
-$ git clone https://github.com/Night4dead/helloWorld.git
+git clone https://github.com/Night4dead/helloWorld.git
 ```
 
 ## run the project:
@@ -19,10 +19,10 @@ $ git clone https://github.com/Night4dead/helloWorld.git
 to run :
 
 ```sh 
-$ cd helloWorld
+cd helloWorld
 ```
  
 ```sh
-$ go run .
+go run .
 ```
 
