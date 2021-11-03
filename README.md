@@ -10,13 +10,19 @@
 
 to copy the project locally :
 
->$ `git clone https://github.com/Night4dead/helloWorld.git` 
+```sh 
+$ git clone https://github.com/Night4dead/helloWorld.git
+```
 
 ## run the project:
 
 to run :
 
->$ `cd helloWorld`
-
->$ `go run .`
+```sh 
+$ cd helloWorld
+```
+ 
+```sh
+$ go run .
+```
 
