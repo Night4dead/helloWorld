@@ -4,7 +4,7 @@
 
 to copy the project locally :
 
->$ `git clone ` 
+>$ `git clone https://github.com/Night4dead/helloWorld.git` 
 
 ## run the project:
 
